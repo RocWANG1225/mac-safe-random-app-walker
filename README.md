@@ -4,7 +4,13 @@
 
 ## 运行方式
 
-双击桌面脚本：
+双击仓库内的启动脚本：
+
+```bash
+run_safe_random_app_walker.command
+```
+
+如果你把启动脚本复制到了桌面，也可以双击桌面脚本：
 
 ```bash
 /Users/wangpeng5/Desktop/运行Mac安全随机浏览.command
@@ -15,6 +21,12 @@
 ```bash
 /Users/wangpeng5/Desktop/运行Mac安全随机浏览.log
 ```
+
+运行窗口支持快捷键：
+
+- 按空格：暂停
+- 再按空格：继续
+- 按 `q`：退出
 
 ## 执行时间策略
 
